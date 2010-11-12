@@ -1,5 +1,5 @@
 !SLIDE 
-# Simple Transactions with 'begin' and 'end' #
+# Simple Transactions with '**`begin`**' and '**`end`**' #
 
 !SLIDE code
     @@@perl
@@ -17,6 +17,87 @@
         };
     }
 
+    $cv->wait;
+    say "Transaction complete!";
+
+!SLIDE code
+    @@@perl
+    my @tld = qw(com net org mp ly cc co info 
+        biz mobi name pro);
+    # the sync variable
+    my $cv = AnyEvent->condvar;
+
+    for my $tld (@tld) {
+        $cv->begin;
+        my $zone = "$name.$tld";
+        AnyEvent::DNS::a $zone, sub {
+            my $ip = shift || "NONE";
+            say "$zone => $ip";
+            $cv->end;
+        };
+    }
+
+    $cv->wait;
+    say "Transaction complete!";
+
+!SLIDE code
+    @@@perl
+    my @tld = qw(com net org mp ly cc co info 
+        biz mobi name pro);
+    my $cv = AnyEvent->condvar;
+
+    for my $tld (@tld) {
+        # outstanding++
+        $cv->begin;
+        my $zone = "$name.$tld";
+        # ... create a callback
+        AnyEvent::DNS::a $zone, sub {
+            my $ip = shift || "NONE";
+            say "$zone => $ip";
+            $cv->end;
+        };
+    }
+
+    $cv->wait;
+    say "Transaction complete!";
+
+!SLIDE code
+    @@@perl
+    my @tld = qw(com net org mp ly cc co info 
+        biz mobi name pro);
+    my $cv = AnyEvent->condvar;
+
+    for my $tld (@tld) {
+        $cv->begin;
+        my $zone = "$name.$tld";
+        AnyEvent::DNS::a $zone, sub {
+            my $ip = shift || "NONE";
+            # $zone is in our closure
+            say "$zone => $ip";
+            # outstanding--
+            $cv->end;
+        };
+    }
+
+    $cv->wait;
+    say "Transaction complete!";
+
+!SLIDE code
+    @@@perl
+    my @tld = qw(com net org mp ly cc co info 
+        biz mobi name pro);
+    my $cv = AnyEvent->condvar;
+
+    for my $tld (@tld) {
+        $cv->begin;
+        my $zone = "$name.$tld";
+        AnyEvent::DNS::a $zone, sub {
+            my $ip = shift || "NONE";
+            say "$zone => $ip";
+            $cv->end;
+        };
+    }
+    # block until outstanding = 0
     $cv->wait;
     say "Transaction complete!";
 
