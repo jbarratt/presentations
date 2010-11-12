@@ -1,0 +1,4 @@
+Testing Synch/Async Lookups of 1000 random 6 character .com domains
+Synchronous code did 6.3983 lookups/second
+Async code: 179.2940 lookups/second.
+Overall, for 6 character domains, 0.50% were valid.

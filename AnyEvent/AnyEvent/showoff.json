@@ -1,0 +1,7 @@
+{"name":"AnyEvent: Asynchronous Perl Programming",
+ "sections":
+    [
+        {"section": "intro"},
+        {"section": "transactions"}
+    ]
+}
