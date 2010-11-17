@@ -5,7 +5,7 @@
     @@@perl
     my @tld = qw(com net org mp ly cc co info 
         biz mobi name pro);
-    my $cv = AnyEvent->condvar;
+    my $cv = AE::cv;
 
     for my $tld (@tld) {
         $cv->begin;
@@ -24,7 +24,7 @@
     @@@perl
     my @tld = qw(com net org mp ly cc co info 
         biz mobi name pro);
-    my $cv = AnyEvent->condvar;
+    my $cv = AE::cv;
 
     for my $tld (@tld) {
         $cv->begin; # outstanding++
@@ -43,7 +43,7 @@
     @@@perl
     my @tld = qw(com net org mp ly cc co info 
         biz mobi name pro);
-    my $cv = AnyEvent->condvar;
+    my $cv = AE::cv;
 
     for my $tld (@tld) {
         $cv->begin;
@@ -62,7 +62,7 @@
     @@@perl
     my @tld = qw(com net org mp ly cc co info 
         biz mobi name pro);
-    my $cv = AnyEvent->condvar;
+    my $cv = AE::cv;
 
     for my $tld (@tld) {
         $cv->begin;
@@ -93,3 +93,18 @@
     anyevent.biz => 213.171.195.53
     Transaction complete!
 
+!SLIDE code
+# First Example Refactor
+    @@@diff
+    32d31
+    < my $processed = 0;
+    34a34
+    >     $cv->begin;
+    40,43c40
+    <         $processed++;
+    <         if ( $processed == $count ) {
+    <             $cv->send;
+    <         }
+    ---
+    >         $cv->end;
+    
