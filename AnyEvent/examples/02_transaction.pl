@@ -7,7 +7,7 @@ my @tld = qw(com net org mp ly cc co info biz mobi name pro);
 
 my $name = $ARGV[0] || die "Usage: [domain name prefix]\n";
 
-my $cv = AnyEvent->condvar;
+my $cv = AE::cv;
 
 for my $tld (@tld) {
     $cv->begin;

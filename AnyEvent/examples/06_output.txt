@@ -1,0 +1,27 @@
+NEW Watcher on $fh at byte 0
+UNDEF watcher
+NEW Watcher on $fh at byte 1794
+UNDEF watcher
+NEW Watcher on $fh at byte 6274
+UNDEF watcher
+NEW Watcher on $fh at byte 19931
+UNDEF watcher
+NEW Watcher on $fh at byte 35287
+UNDEF watcher
+NEW Watcher on $fh at byte 39965
+UNDEF watcher
+NEW Watcher on $fh at byte 49667
+UNDEF watcher
+NEW Watcher on $fh at byte 63929
+UNDEF watcher
+NEW Watcher on $fh at byte 82088
+UNDEF watcher
+NEW Watcher on $fh at byte 94970
+UNDEF watcher
+NEW Watcher on $fh at byte 107193
+UNDEF watcher
+NEW Watcher on $fh at byte 111833
+UNDEF watcher
+NEW Watcher on $fh at byte 125110
+UNDEF watcher
+First unresolvable .com in input: ds.com

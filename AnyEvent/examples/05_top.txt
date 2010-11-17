@@ -1,0 +1,6 @@
+  PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND                                                                                              
+ 6141 jbarratt  18  -2  668m 441m  796 D  4.4 88.5   0:14.58 05_handle.pl                                                                                          
+23098 jbarratt  18  -2 28588 1280  472 R  0.5  0.3   0:21.20 screen                                                                                                
+ 5323 jbarratt  18  -2 29176 1256 1252 S  0.0  0.2   0:13.26 vi                                                                                                    
+ 6145 jbarratt  18  -2 18824 1224  936 R  0.0  0.2   0:00.10 top                                                                                                   
+31438 jbarratt  18  -2 29576 1180 1176 S  0.0  0.2   0:01.12 vi    

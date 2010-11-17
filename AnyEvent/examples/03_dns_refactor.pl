@@ -29,23 +29,17 @@ AnyEvent::DNS::resolver->max_outstanding($count)
 $t_sync = AE::time;
 
 my $cv        = AE::cv;
-my $processed = 0;
 for ( 1 .. $count ) {
     my $zone = random_string($zone_size) . ".com";
+    $cv->begin;
     AnyEvent::DNS::a $zone, sub {
         my $ip = shift;
         if ( defined($ip) ) {
             $live++;
         }
-        $processed++;
-        if ( $processed == $count ) {
-            $cv->send;
-        }
+        $cv->end;
     };
 }
-
-# Tempting, but doesn't work. There are other things that can make the event loop idle.
-#my $w = AnyEvent->idle(cb => sub { $cv->send });
 
 $cv->recv;
 
