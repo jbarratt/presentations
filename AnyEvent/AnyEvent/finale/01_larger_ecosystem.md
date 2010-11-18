@@ -6,7 +6,8 @@
 !SLIDE
 # Databases
 # DBI
-# Redis CouchDB Riak Memcached
+# Redis CouchDB Riak Memcached MongoDB
+# (Mongo Meetup: <http://j.mp/drX4Ri>)
 
 !SLIDE
 # Messaging
