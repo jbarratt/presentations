@@ -1,0 +1,1944 @@
+news: 1530000000
+NeWS: 1520000000
+music: 788000000
+can: 586000000
+up: 490000000
+download: 360000000
+state: 353000000
+2: 297000000
+life: 274000000
+T: 245000000
+0: 242000000
+real: 217000000
+reply: 209000000
+C: 209000000
+open: 198000000
+email: 188000000
+M: 185000000
+FAQ: 180000000
+store: 167000000
+N: 164000000
+English: 163000000
+PM: 159000000
+post: 155000000
+index: 149000000
+h: 149000000
+inc: 148000000
+say: 145000000
+down: 144000000
+ITS: 144000000
+X: 129000000
+channel: 129000000
+RE: 129000000
+SO: 126000000
+G: 124000000
+user: 124000000
+tube: 124000000
+K: 122000000
+support: 101000000
+disclaimer: 96800000
+check: 94200000
+win: 90000000
+app: 84600000
+net.-: 84400000
+text: 83600000
+mode: 83300000
+profile: 81800000
+upload: 79200000
+forum: 78800000
+BAD: 77300000
+con: 77300000
+include: 73400000
+box: 72200000
+die: 71900000
+board: 70100000
+hair: 69400000
+dead: 67400000
+block: 67400000
+system: 65800000
+@-party: 64400000
+SEX: 63800000
+legal: 63000000
+YA-: 61600000
+program: 57300000
+bit: 54200000
+feature: 48800000
+management: 48700000
+voice: 46200000
+test: 44600000
+for free: 44600000
+fan: 43600000
+buzz: 43300000
+bug: 42600000
+AI: 41600000
+real estate: 41500000
+nature: 39100000
+BASIC: 38300000
+interesting: 36600000
+bar: 36000000
+wall: 35800000
+admin: 35600000
+posting: 35200000
+fine: 33500000
+OS: 32100000
+highly: 31300000
+break: 30400000
+dec: 29600000
+random: 29300000
+pop: 29200000
+BBS: 28600000
+engine: 28300000
+numbers: 27800000
+lose: 27600000
+orthogonal: 27300000
+op: 27200000
+vi: 26900000
+spam: 26800000
+thread: 26600000
+banner: 26400000
+distribution: 26000000
+\begin: 25300000
+@Begin: 25300000
+loss: 24700000
+filter: 24400000
+beta: 24100000
+zip: 24000000
+background: 24000000
+ice: 23900000
+virtual: 23700000
+clean: 23300000
+CI$: 23300000
+smart: 23300000
+gas: 22400000
+crash: 22400000
+flag: 22400000
+meta: 22200000
+Real World: 22200000
+avatar: 21800000
+walk: 21800000
+hat: 21300000
+driver: 21300000
+droid: 21000000
+tool: 20900000
+dd: 20700000
+kit: 20500000
+server: 20000000
+pathological: 19900000
+cat: 19700000
+Blue Book: 19600000
+TLA: 19400000
+shareware: 18800000
+fix: 18800000
+magic: 17900000
+quarter: 17800000
+doc: 17700000
+core: 17700000
+factor: 17300000
+Ada: 17200000
+path: 17000000
+documentation: 16800000
+Good Thing: 16400000
+alt: 16400000
+zero: 16300000
+handle: 16200000
+golden: 16100000
+poll: 15800000
+var: 15500000
+fish: 15500000
+New Jersey: 15500000
+broken: 15400000
+sleep: 15200000
+nick: 15100000
+winner: 15100000
+nonlinear: 14900000
+RL: 14700000
+hop: 14600000
+mu: 14500000
+gaseous: 14500000
+real time: 14400000
+push: 14400000
+theory: 14400000
+phase: 14100000
+GNU: 14000000
+offline: 13800000
+programming: 13800000
+FM: 13600000
+phage: 13500000
+flat: 13200000
+widget: 13200000
+glass: 12800000
+Share and enjoy!: 12800000
+Mars: 12600000
+copyleft: 12200000
+DP: 12100000
+thumb: 12100000
+AOS: 12000000
+chain: 12000000
+iron: 12000000
+Christmas tree: 11900000
+COME FROM: 11900000
+evil: 11500000
+(TM): 11400000
+gun: 11300000
+nontrivial: 11300000
+virgin: 11100000
+dragon: 11100000
+generate: 11100000
+micro-: 11100000
+wish list: 10800000
+XXX: 10800000
+semi: 10700000
+calculator: 10700000
+virus: 10600000
+hang: 10600000
+nude: 10300000
+kick: 10300000
+P.O.D.: 10300000
+pod: 10300000
+losing: 10100000
+mega-: 10100000
+bang: 10100000
+gen: 10100000
+mailing list: 10100000
+Ob-: 10000000
+GPL: 9960000
+demo: 9810000
+taste: 9760000
+arena: 9710000
+PBD: 9610000
+ken: 9520000
+user-friendly: 9380000
+empire: 9080000
+dike: 8990000
+operating system: 8980000
+boot: 8780000
+suit: 8750000
+Yet Another: 8730000
+SIG: 8700000
+boa: 8640000
+cycle: 8600000
+FTP: 8560000
+Matrix: 8530000
+toy: 8380000
+LPT: 8370000
+wheel: 8180000
+console: 8170000
+PD: 8140000
+ping: 8090000
+protocol: 8030000
+chad: 8000000
+drain: 7980000
+SED: 7950000
+sync: 7890000
+marginally: 7720000
+compact: 7700000
+NP-: 7500000
+-ware: 7410000
+mod: 7390000
+shell: 7340000
+AIDS: 7340000
+patch: 7280000
+bits: 7270000
+pseudo: 7260000
+bible: 7200000
+wallpaper: 7160000
+finger: 7130000
+gabriel: 7030000
+fred: 6980000
+blast: 6900000
+elegant: 6820000
+fora: 6770000
+meg: 6700000
+tune: 6640000
+smoke: 6580000
+baud: 6540000
+hack: 6540000
+PARC: 6520000
+GFR: 6360000
+restriction: 6340000
+LER: 6290000
+UNIX: 6280000
+IBM: 6280000
+robust: 6250000
+spin: 6140000
+delta: 6130000
+chrome: 6080000
+slim: 6000000
+GC: 5960000
+robot: 5910000
+mung: 5910000
+trash: 5880000
+guru: 5850000
+ques: 5840000
+flypage: 5820000
+PostScript: 5810000
+wedged: 5760000
+EXE: 5740000
+saga: 5730000
+marginal: 5690000
+page in: 5650000
+segment: 5640000
+-oid: 5600000
+crumb: 5590000
+SOS: 5560000
+trawl: 5540000
+hook: 5500000
+root: 5500000
+stunning: 5460000
+MOTOS: 5340000
+cookie: 5310000
+heavy metal: 5290000
+flood: 5290000
+quotient: 5250000
+FOD: 5250000
+bomb: 5210000
+logical: 5190000
+recursion: 5170000
+freeware: 5100000
+Knuth: 5070000
+deprecated: 5050000
+wizard: 5050000
+zen: 5000000
+hung: 4980000
+brittle: 4930000
+postmaster: 4920000
+drum: 4910000
+EOF: 4850000
+snap: 4850000
+zombie: 4820000
+uninteresting: 4750000
+massage: 4730000
+tourist: 4710000
+dump: 4700000
+defined as: 4680000
+enhancement: 4670000
+HCF: 4620000
+sitename: 4560000
+stroke: 4530000
+firmy: 4510000
+NMI: 4500000
+hammer: 4480000
+newbie: 4470000
+echo: 4430000
+scratch: 4400000
+wank: 4390000
+swab: 4370000
+foreground: 4360000
+laundromat: 4350000
+munching: 4330000
+IRC: 4300000
+Pascal: 4280000
+smiley: 4260000
+decay: 4250000
+BSD: 4240000
+nano: 4230000
+thrash: 4230000
+hacker: 4220000
+copper: 4200000
+slop: 4170000
+flame: 4170000
+slurp: 4160000
+parse: 4140000
+tee: 4110000
+nano-: 4090000
+naive: 4090000
+beam: 4060000
+RTM: 4050000
+RTFM: 4030000
+swap: 4020000
+Yow!: 3990000
+silicon: 3960000
+infinite: 3930000
+wired: 3930000
+screw: 3930000
+trivial: 3890000
+atomic: 3880000
+bandwidth: 3870000
+hirsute: 3860000
+interrupt: 3830000
+VMS: 3820000
+xref: 3820000
+VR: 3740000
+dink: 3740000
+CLM: 3730000
+obscure: 3720000
+RETI: 3710000
+rape: 3670000
+toto: 3630000
+cube: 3590000
+ding: 3570000
+black hole: 3560000
+farming: 3560000
+chemist: 3560000
+fool: 3520000
+JCL: 3510000
+BFI: 3510000
+quad: 3510000
+cascade: 3470000
+infinity: 3440000
+proprietary: 3430000
+lightweight: 3430000
+cyberpunk: 3430000
+twink: 3420000
+hexadecimal: 3400000
+hardwired: 3400000
+mundane: 3390000
+canonical: 3390000
+ADVENT: 3390000
+netnews: 3380000
+freeze: 3380000
+hing: 3380000
+meme: 3380000
+peek: 3370000
+prime time: 3370000
+batch: 3370000
+DED: 3360000
+clone: 3350000
+monstrosity: 3340000
+EOL: 3320000
+touristic: 3320000
+spell: 3310000
+front end: 3310000
+netter: 3300000
+gonzo: 3300000
+modulo: 3290000
+sacred: 3290000
+digit: 3280000
+VAX: 3280000
+PPN: 3280000
+slack: 3260000
+Perl: 3260000
+trap: 3260000
+mainframe: 3260000
+cyberspace: 3240000
+bump: 3230000
+MIPS: 3230000
+time T: 3220000
+gedanken: 3220000
+epoch: 3200000
+exec: 3190000
+newline: 3180000
+happily: 3180000
+Right Thing: 3170000
+shim: 3120000
+KIPS: 3120000
+macro: 3120000
+followup: 3090000
+funky: 3090000
+ACK: 3060000
+mickey: 3060000
+macro-: 3060000
+nanotechnology: 3050000
+flatten: 3050000
+benchmark: 3040000
+plumbing: 3010000
+rude: 3000000
+fragile: 2990000
+hairy: 2980000
+wedgie: 2970000
+exa-: 2970000
+thanks in advance: 2940000
+DDT: 2920000
+flavor: 2920000
+fascist: 2910000
+NIL: 2910000
+accumulator: 2910000
+TELNET: 2910000
+hex: 2880000
+wonky: 2880000
+drugged: 2880000
+replicator: 2870000
+demon: 2870000
+stoppage: 2870000
+sagan: 2860000
+TeX: 2860000
+thud: 2860000
+legalese: 2840000
+gig: 2840000
+diff: 2840000
+cowboy: 2840000
+IMHO: 2820000
+amoeba: 2790000
+fum: 2790000
+chug: 2790000
+bigot: 2780000
+optimism: 2780000
+devo: 2770000
+hosed: 2770000
+theology: 2770000
+grunge: 2760000
+gag: 2750000
+BOF: 2750000
+playpen: 2750000
+rave: 2750000
+EXCH: 2740000
+sysadmin: 2740000
+workaround: 2730000
+sysop: 2730000
+glob: 2720000
+fence: 2720000
+leak: 2710000
+waldo: 2710000
+Usenet: 2710000
+ABEND: 2700000
+flaky: 2690000
+geef: 2680000
+epsilon: 2680000
+visionary: 2680000
+flowchart: 2670000
+footprint: 2660000
+munch: 2660000
+haque: 2650000
+forked: 2650000
+cons: 2640000
+MUD: 2640000
+jupiter: 2630000
+awk: 2620000
+FUD: 2620000
+newsgroup: 2610000
+silo: 2610000
+regexp: 2590000
+TCB: 2580000
+pico-: 2580000
+stack: 2580000
+byte: 2580000
+sidecar: 2560000
+BNF: 2550000
+sniff: 2540000
+urchin: 2530000
+bounce: 2520000
+kluge: 2520000
+parm: 2510000
+frog: 2490000
+samurai: 2480000
+rococo: 2470000
+rogue: 2470000
+deadlock: 2470000
+fry: 2450000
+orphan: 2450000
+demented: 2440000
+weeds: 2440000
+shriek: 2440000
+creep: 2440000
+tanked: 2440000
+tron: 2430000
+creationism: 2420000
+mangler: 2410000
+COBOL: 2410000
+vanilla: 2400000
+netiquette: 2400000
+char: 2400000
+EMACS: 2390000
+grep: 2380000
+GIPS: 2370000
+spoiler: 2370000
+flavorful: 2360000
+clocks: 2340000
+tweeter: 2340000
+asbestos: 2340000
+tty: 2330000
+dodgy: 2330000
+barf: 2330000
+spike: 2320000
+spod: 2300000
+SAIL: 2300000
+punt: 2270000
+RSN: 2260000
+TECO: 2260000
+bogus: 2250000
+compress: 2250000
+snail: 2240000
+baroque: 2230000
+mango: 2220000
+earthquake: 2210000
+turist: 2200000
+loser: 2200000
+slash: 2190000
+nickle: 2180000
+mutter: 2180000
+firefighting: 2170000
+crayon: 2160000
+cracking: 2160000
+cray: 2150000
+fried: 2140000
+BRS: 2140000
+strudel: 2140000
+cracker: 2130000
+peta-: 2120000
+foo: 2120000
+cdr: 2120000
+tense: 2120000
+scribble: 2110000
+hose: 2110000
+donuts: 2100000
+flush: 2100000
+LDB: 2090000
+wart: 2090000
+chomp: 2090000
+DAU: 2080000
+ASCII: 2080000
+choke: 2070000
+tera-: 2060000
+arg: 2060000
+poke: 2060000
+snark: 2060000
+FUBAR: 2060000
+FOAF: 2050000
+jock: 2050000
+LISP: 2040000
+RTI: 2040000
+beep: 2040000
+sponge: 2030000
+bum: 2030000
+biff: 2020000
+kahuna: 2010000
+glue: 2010000
+toast: 2000000
+overrun: 1990000
+worm: 1990000
+multitask: 1980000
+spool: 1980000
+SCSI: 1970000
+whack: 1970000
+perf: 1960000
+woofer: 1950000
+condom: 1950000
+weasel: 1940000
+BLT: 1930000
+spl: 1930000
+amper: 1920000
+tick: 1910000
+gnarly: 1900000
+CHOP: 1900000
+weenie: 1890000
+crank: 1880000
+giga-: 1870000
+hobbit: 1870000
+grind: 1860000
+BLOB: 1850000
+foobar: 1850000
+fudge: 1850000
+gotcha: 1840000
+whales: 1830000
+hyperspace: 1830000
+mumble: 1830000
+WOMBAT: 1830000
+marbles: 1830000
+randomness: 1820000
+toggle: 1810000
+hog: 1800000
+moria: 1770000
+finn: 1740000
+lint: 1740000
+trit: 1740000
+prowler: 1740000
+blat: 1740000
+RFC: 1740000
+kilo-: 1720000
+lurker: 1720000
+crunch: 1710000
+XON: 1700000
+sandbox: 1700000
+jiffy: 1690000
+fossil: 1690000
+xor: 1690000
+param: 1680000
+MEGO: 1680000
+WYSIWYG: 1670000
+monty: 1650000
+baz: 1650000
+Winchester: 1630000
+hamster: 1630000
+barney: 1630000
+network, the: 1620000
+moby: 1620000
+faulty: 1610000
+puff: 1570000
+heartbeat: 1560000
+excl: 1560000
+splat: 1560000
+kyrka: 1550000
+'Snooze: 1550000
+flap: 1540000
+WAITS: 1540000
+speedometer: 1530000
+peon: 1520000
+zap: 1520000
+smurf: 1510000
+nuke: 1500000
+wiggles: 1500000
+spiffy: 1490000
+DPB: 1490000
+incantation: 1490000
+NAK: 1470000
+toaster: 1460000
+roach: 1440000
+tweak: 1440000
+martian: 1430000
+noddy: 1430000
+lase: 1420000
+by hand: 1420000
+ogg: 1390000
+softy: 1390000
+mockingbird: 1380000
+POM: 1370000
+CTY: 1370000
+showstopper: 1370000
+trampoline: 1360000
+backgammon: 1330000
+dinosaur: 1330000
+cookbook: 1300000
+MOTAS: 1290000
+hello, world: 1260000
+boxen: 1250000
+QWERTY: 1250000
+huff: 1240000
+pistol: 1230000
+Hackintosh: 1170000
+HLL: 1160000
+Zork: 1160000
+runes: 1150000
+bulletproof: 1130000
+mangle: 1110000
+dongle: 1100000
+reaper: 1090000
+unleaded: 1090000
+glitch: 1080000
+paper-net: 1070000
+hardcoded: 1050000
+heavyweight: 1040000
+special-case: 1040000
+cretin: 1020000
+munchkin: 998000
+quine: 996000
+gumby: 993000
+phreaking: 991000
+superuser: 988000
+daemon: 973000
+demigod: 931000
+pdl: 925000
+ENQ: 872000
+emoticon: 855000
+crayola: 835000
+DEADBEEF: 771000
+gobble: 767000
+UBD: 733000
+Eris: 653000
+KIBO: 629000
+crock: 619000
+zapped: 608000
+thunk: 583000
+ARMM: 554000
+diddle: 537000
+doco: 516000
+verbiage: 504000
+RFE: 493000
+blow up: 481000
+PIP: 476000
+signal-to-noise ratio: 456000
+gilley: 417000
+content-free: 396000
+catatonic: 383000
+zeroth: 362000
+control-C: 350000
+sufficiently small: 297000
+UN*X: 291000
+Internet address: 275000
+Old Testament: 266000
+New Testament: 265000
+virtual reality: 264000
+bells and whistles: 261000
+win big: 258000
+FIXME: 251000
+critical mass: 249000
+Yellow Book: 245000
+low-bandwidth: 245000
+Iron Age: 243000
+lobotomy: 240000
+well-connected: 237000
+reality check: 231000
+automagically: 230000
+era, the: 230000
+hot spot: 227000
+flag day: 226000
+Bad Thing: 219000
+AFJ: 218000
+random numbers: 218000
+loop through: 218000
+locked up: 217000
+network address: 216000
+gang bang: 215000
+fall through: 212000
+back door: 210000
+OS/2: 210000
+wrap around: 208000
+fall over: 207000
+washing machine: 207000
+job security: 206000
+well-behaved: 200000
+Get a life!: 197000
+literature, the: 196000
+window shopping: 196000
+memory leak: 195000
+infant mortality: 195000
+control-O: 193000
+great-wall: 193000
+in the extreme: 191000
+brute force: 191000
+MS-DOS: 191000
+win win: 190000
+magic number: 189000
+bare metal: 187000
+Red Book: 187000
+quick-and-dirty: 184000
+bang on: 183000
+black magic: 183000
+social engineering: 182000
+/dev/null: 182000
+blow out: 182000
+copy protection: 180000
+Version 7: 180000
+snail-mail: 178000
+green card: 178000
+deep space: 177000
+tourist information: 175000
+brain-dead: 175000
+drop-outs: 173000
+time bomb: 172000
+under the hood: 171000
+Easter egg: 171000
+S/N ratio: 170000
+Trojan horse: 170000
+GPV: 168000
+jack in: 168000
+for the rest of us: 168000
+twilight zone: 168000
+big win: 167000
+cookie monster: 165000
+blow away: 163000
+fear and loathing: 162000
+splash screen: 162000
+Stone Age: 162000
+broken arrow: 161000
+grok: 159000
+for values of: 158000
+green machine: 156000
+runic: 155000
+README file: 155000
+crash and burn: 155000
+GIGO: 154000
+steam-powered: 154000
+Death Star: 150000
+ASCII art: 150000
+cosmic rays: 148000
+face time: 148000
+cookie jar: 147000
+out-of-band: 145000
+sunspots: 142000
+bread crumbs: 141000
+flat-file: 141000
+shell out: 140000
+smoke and mirrors: 137000
+fortune cookie: 137000
+book titles: 136000
+funny money: 135000
+same-day service: 133000
+buffer overflow: 133000
+Live Free Or Die!: 132000
+external memory: 132000
+Wrong Thing: 130000
+infinite loop: 128000
+old fart: 121000
+Murphy's Law: 120000
+terminal illness: 115000
+black art: 113000
+semi-infinite: 111000
+locals, the: 110000
+YABA: 107000
+live data: 105000
+scag: 104000
+page out: 104000
+EOU: 103000
+rain dance: 103000
+Green Book: 103000
+dumbed down: 103000
+comment out: 103000
+gorp: 101000
+spoo: 100000
+swapped out: 99200
+pretty pictures: 97800
+buried treasure: 97700
+Life is hard: 97400
+handshaking: 96600
+home box: 96500
+troglodyte: 95000
+flamer: 94000
+segmentation fault: 93700
+can't happen: 93300
+Moore's Law: 92700
+brain-damaged: 92300
+trap door: 91700
+flippy: 91700
+quantifiers: 90900
+K&R: 90800
+abbrev: 89400
+pencil and paper: 88900
+File Attach: 86100
+chiclet keyboard: 85900
+BQS: 85400
+hack attack: 83900
+night mode: 83800
+computer geek: 83800
+heads down: 83400
+erotics: 83200
+elvish: 82600
+klone: 82400
+bamf: 82200
+reinvent the wheel: 81600
+little-endian: 81200
+CP/M: 80700
+crlf: 80100
+bboard: 79200
+plonk: 78900
+number-crunching: 77400
+swizzle: 77300
+Your mileage may vary: 76700
+wabbit: 76600
+frink: 75800
+blit: 75400
+big-endian: 74700
+high bit: 74200
+ironmonger: 73300
+cross-post: 73200
+selvage: 72200
+break-even point: 71700
+unroll: 71500
+religious issues: 71500
+clobber: 71200
+bit bucket: 70400
+filk: 70300
+softcopy: 70300
+control-S: 70200
+red wire: 69000
+rave on!: 69000
+larval stage: 68700
+idempotent: 68700
+power cycle: 67100
+flame war: 65900
+flame on: 65600
+alpha particles: 65000
+Nathan Hale: 64000
+Classic C: 63500
+lose lose: 62800
+White Book: 62500
+qux: 60600
+doorstop: 60100
+prepend: 59700
+hack on: 59200
+EBCDIC: 58300
+flytrap: 58000
+stiffy: 57800
+pound on: 57500
+dumpster diving: 57400
+geek out: 56800
+pastie: 56800
+stomp on: 56800
+sanity check: 55600
+snarf: 55300
+segfault: 55100
+angle brackets: 54900
+wannabee: 54700
+whacker: 54600
+Orange Book: 54000
+holy wars: 53800
+main loop: 53600
+lunatic fringe: 53500
+grovel: 52600
+twiddle: 52600
+lexer: 52500
+payware: 51900
+boink: 51500
+XOFF: 51400
+BWQ: 51300
+FAQ list: 51000
+BITNET: 50800
+to a first approximation: 50700
+pizza box: 49900
+fuel up: 47800
+heatseeker: 47800
+demo mode: 47800
+GCOS: 47400
+big iron: 47300
+rot13: 47000
+humma: 46900
+bitblt: 46600
+vaporware: 46400
+bogon: 46400
+Moof: 45000
+no-op: 44600
+xyzzy: 44600
+kludge: 44500
+elephantine: 44500
+Datamation: 44200
+drop-ins: 44000
+FidoNet: 43800
+chomper: 43500
+XEROX PARC: 43000
+Saturday-night special: 42200
+wango: 42100
+swap space: 42100
+scanno: 42000
+chicken head: 41900
+core dump: 41900
+real user: 41100
+self-reference: 39800
+frob: 38900
+command key: 38800
+manged: 38700
+File Request: 38500
+winkey: 38300
+tiger team: 37600
+cubing: 37500
+dead code: 37100
+Stupids: 37000
+swapped in: 36700
+bottom feeder: 36600
+power hit: 36500
+considered harmful: 35900
+nethack: 35500
+blue wire: 35400
+locked and loaded: 35200
+boat anchor: 35100
+TOPS-10: 35100
+retrocomputing: 34900
+brain dump: 34700
+bubble sort: 34700
+INTERCAL: 34500
+blargh: 34400
+pilot error: 34100
+home machine: 34000
+adger: 33900
+cruft: 33600
+line noise: 32700
+defenestration: 32600
+Real Soon Now: 32300
+brain fart: 31600
+cold boot: 31400
+videotex: 31000
+Venus flytrap: 30700
+fnord: 30200
+vannevar: 29600
+light pipe: 28900
+spooge: 28100
+not ready for prime time: 28000
+sun lounge: 27900
+TANSTAAFL: 27900
+padded cell: 27500
+hacked off: 27400
+scrog: 27300
+gonk: 27300
+machinable: 27200
+scrool: 27100
+troff: 27100
+Multics: 27000
+oriental food: 27000
+yellow wire: 26900
+SPACEWAR: 26500
+jaggies: 26500
+verbage: 25800
+mouse around: 25300
+salt mines: 25300
+TOPS-20: 24800
+nanobot: 24700
+YAUN: 24300
+channel op: 24300
+phase of the moon: 23700
+raw mode: 23300
+deckle: 23200
+luser: 23100
+burble: 23000
+tube time: 22800
+hacked up: 22500
+computron: 22100
+ravs: 21800
+insanely great: 21800
+munge: 21300
+hand-roll: 21200
+DPer: 21100
+memetics: 20900
+feature key: 20600
+cookie file: 20400
+secondary damage: 20000
+retcon: 19900
+parent message: 19900
+CTSS: 19500
+fuzzball: 19000
+frogging: 18700
+iron box: 18700
+gronk: 18500
+open switch: 18500
+wizard mode: 18400
+blinkenlights: 18400
+platinum-iridium: 18400
+wetware: 18200
+syntactic sugar: 18000
+plain-ASCII: 18000
+skulker: 17900
+two pi: 17700
+smoke test: 17600
+shovelware: 17500
+time sink: 17400
+netsplit: 17300
+link farm: 17200
+link-dead: 16800
+confuser: 16700
+tunafish: 16700
+punched card: 16400
+upthread: 16300
+fuck me harder: 16200
+root mode: 16100
+broadcast storm: 16100
+PDP-10: 16100
+double DECkers: 16000
+wumpus: 15400
+weeble: 15300
+hack up: 15200
+net.police: 15100
+wizardly: 15100
+Purple Book: 15100
+neophilia: 15000
+hello, sailor!: 14700
+boustrophedon: 14700
+GECOS: 14600
+voice-net: 14500
+Green's Theorem: 14300
+spool file: 14200
+DWIM: 14000
+skrog: 14000
+letterbomb: 13900
+channel hopping: 13600
+day mode: 13600
+dirtball: 13400
+gillion: 13300
+blow past: 13100
+KISS Principle: 13100
+whizzy: 13000
+dot file: 13000
+hackish: 12900
+logic bomb: 12800
+rc file: 12800
+snarf down: 12800
+file signature: 12500
+Dragon Book: 12400
+dumb terminal: 12400
+LERP: 12300
+TMRC: 12300
+BUAG: 11900
+bignum: 11800
+guru meditation: 11800
+liveware: 11700
+quux: 11700
+ill-behaved: 11700
+amp off: 11700
+film at 11: 11600
+segv: 11600
+livelock: 11400
+blivet: 11300
+RTFS: 11200
+plan file: 11100
+propeller head: 11000
+zorch: 11000
+fudge factor: 11000
+cretinous: 11000
+warm boot: 10900
+armor-plated: 10700
+control-Q: 10700
+blitter: 10700
+magic cookie: 10600
+topic group: 10500
+hard boot: 10400
+P-mail: 10400
+nroff: 10400
+spaghetti code: 10400
+coefficient of X: 10300
+AIDX: 10200
+burn-in period: 9940
+This can't happen: 9760
+dirty power: 9650
+Wizard Book: 9490
+suitably small: 9370
+undocumented feature: 9240
+MOTSS: 9170
+gweep: 9170
+nagware: 9040
+rusty iron: 8930
+magic smoke: 8920
+SMOP: 8820
+feep: 8740
+rice box: 8730
+wall time: 8600
+security through obscurity: 8570
+I didn't change anything!: 8530
+tail recursion: 8490
+Silver Book: 8450
+working as designed: 8410
+soft boot: 8300
+1TBS: 8260
+condition out: 8070
+talk mode: 8070
+tar and feather: 8060
+VAXen: 8050
+net.god: 7990
+busy-wait: 7950
+bixie: 7890
+TechRef: 7870
+all-elbows: 7780
+blue goo: 7590
+mode bit: 7460
+glork: 7330
+handwave: 7280
+lost in the noise: 7250
+J. Random: 7230
+garbage collect: 7130
+deep magic: 7080
+Church of the SubGenius: 7080
+postcardware: 7060
+die horribly: 7050
+mouse droppings: 6990
+purple wire: 6830
+seggie: 6700
+flame bait: 6660
+nybble: 6640
+deadly embrace: 6630
+notwork: 6630
+frotz: 6590
+gorets: 6310
+priority interrupt: 6210
+mailbomb: 6180
+toy problem: 6170
+topic drift: 6100
+line 666: 6100
+gensym: 6050
+return from the dead: 6030
+wirehead: 5920
+This time, for sure!: 5850
+whalesong: 5680
+desk check: 5640
+netrock: 5620
+parity errors: 5560
+sneakernet: 5550
+crippleware: 5540
+Discordianism: 5510
+bounce message: 5430
+real hack: 5380
+SNAFU principle: 5330
+hungus: 5330
+deserves to lose: 5290
+prettyprint: 5270
+recursive acronym: 5260
+nailed to the wall: 5070
+rainbow series: 5030
+delint: 4980
+Hanlon's Razor: 4940
+JRST: 4910
+cuspy: 4870
+hack together: 4870
+include war: 4850
+toolsmith: 4840
+copious free time: 4750
+green lightning: 4670
+crufty: 4640
+dangling pointer: 4620
+zipperhead: 4580
+pessimal: 4520
+brochureware: 4510
+shelfware: 4500
+bit bang: 4410
+sig quote: 4340
+Blue Glue: 4200
+error 33: 4160
+percent-S: 4120
+careware: 4090
+three-finger salute: 4060
+plugh: 3970
+Sturgeon's Law: 3920
+naive user: 3910
+zero-content: 3870
+glark: 3800
+HHOK: 3780
+POPJ: 3770
+fork bomb: 3760
+teledildonics: 3740
+gritch: 3720
+Weenix: 3700
+broket: 3680
+short card: 3640
+FAQL: 3600
+silly walk: 3600
+dogwash: 3550
+Don't do that, then!: 3540
+off-by-one error: 3510
+vdiff: 3480
+go-faster stripes: 3470
+thinko: 3470
+math-out: 3460
+JEDR: 3460
+BUAF: 3450
+flarp: 3450
+kill file: 3430
+UTSL: 3410
+bit rot: 3400
+bathtub curve: 3370
+cycle of reincarnation: 3350
+death code: 3330
+lion food: 3300
+elevator controller: 3290
+Real Programmer: 3280
+software laser: 3220
+drop on the floor: 3220
+HHOS: 3200
+meeces: 3170
+hash collision: 3150
+Marginal Hacks: 3140
+bogosity: 3060
+braino: 3050
+toy program: 3040
+muddie: 3030
+read-only user: 3020
+nastygram: 3020
+dogcow: 3010
+mudhead: 3000
+real operating system: 2980
+smart terminal: 2980
+code police: 2970
+hash bucket: 2910
+RTBM: 2900
+go root: 2840
+printing discussion: 2830
+monkey up: 2810
+gripenet: 2810
+corge: 2810
+off the trolley: 2780
+science-fiction fandom: 2780
+flat-ASCII: 2780
+mouso: 2760
+let the smoke out: 2760
+hack mode: 2750
+bletch: 2750
+JFCL: 2740
+cokebottle: 2690
+Vulcan nerve pinch: 2660
+brute force and ignorance: 2660
+MFTL: 2640
+RTFB: 2630
+casting the runes: 2610
+tree-killer: 2570
+Core Wars: 2540
+elder days: 2540
+misfeature: 2510
+flower key: 2500
+hungry puppy: 2500
+overflow bit: 2440
+Foonly: 2400
+lossage: 2380
+dynner: 2360
+Infinite-Monkey Theorem: 2360
+gunch: 2310
+clover key: 2290
+codewalker: 2290
+frednet: 2280
+bit twiddling: 2270
+gray goo: 2260
+Dissociated Press: 2240
+nanocomputer: 2220
+software bloat: 2190
+AI-complete: 2180
+moose call: 2100
+firewall machine: 2050
+faradize: 2020
+frobnicate: 2010
+gonkulator: 2000
+heisenbug: 1990
+hack value: 1980
+charityware: 1930
+toy language: 1910
+pseudoprime: 1880
+hexit: 1880
+Big Room, the: 1880
+fold case: 1860
+farkled: 1850
+firebottle: 1840
+grault: 1840
+Devil Book: 1800
+feature creature: 1790
+hidden flag: 1780
+phase-wrapping: 1730
+Berzerkeley: 1720
+Finagle's Law: 1720
+altmode: 1600
+net.personality: 1600
+playte: 1590
+true-hacker: 1580
+chanop: 1530
+unwind-protect: 1530
+Conway's Law: 1530
+plokta: 1510
+indent style: 1510
+beanie key: 1500
+non-optimal solution: 1480
+core leak: 1480
+quote chapter and verse: 1470
+salescritter: 1470
+languages of choice: 1440
+room-temperature IQ: 1420
+leaf site: 1400
+initgame: 1390
+HAKMEM: 1390
+cookie bear: 1390
+scruffies: 1370
+square tape: 1360
+bag on the side: 1350
+Big Red Switch: 1340
+NOMEX underwear: 1330
+frowney: 1320
+PDP-20: 1310
+berklix: 1300
+Macintoy: 1300
+jolix: 1300
+PETSCII: 1280
+hello, wall!: 1280
+Cinderella Book: 1280
+disk farm: 1270
+comm mode: 1270
+macrology: 1270
+vgrep: 1220
+flamage: 1220
+metasyntactic variable: 1210
+ooblick: 1210
+boxology: 1200
+feature shock: 1190
+terpri: 1190
+nailing jelly: 1180
+ha ha only serious: 1180
+treeware: 1170
+sucking mud: 1170
+winnage: 1170
+toeprint: 1170
+do protocol: 1120
+JR[LN]: 1110
+gorilla arm: 1110
+crack root: 1110
+lace card: 1100
+house wizard: 1100
+tired iron: 1090
+core cancer: 1080
+netlag: 1070
+fd leak: 1060
+bitty box: 1050
+write-only memory: 1050
+one-line fix: 1030
+tall card: 1030
+fireworks mode: 1030
+salt substrate: 998
+dehose: 991
+neat hack: 986
+sig block: 983
+firewall code: 959
+Duff's device: 952
+patch space: 951
+display hack: 949
+bottom-up implementation: 943
+scream and die: 932
+rare mode: 924
+Fortrash: 906
+meatware: 899
+scratch monkey: 897
+marketroid: 879
+That's not a bug, that's a feature!: 877
+Lions Book: 876
+creeping featurism: 875
+CPU Wars: 872
+tayste: 870
+round tape: 869
+WIBNI: 858
+language lawyer: 838
+stupid-sort: 832
+ad-hockery: 829
+sig virus: 822
+attoparsec: 809
+wall follower: 807
+monkey, scratch: 806
+banana problem: 796
+nadger: 784
+DEChead: 782
+cooked mode: 781
+sandbender: 773
+UUCPNET: 772
+You are not expected to understand this: 772
+Macintrash: 768
+cargo cult programming: 763
+microtape: 750
+bug-compatible: 745
+sharchive: 742
+blurgle: 738
+vulture capitalist: 736
+network meltdown: 733
+cryppie: 725
+YAFIYGI: 723
+bang path: 719
+bzzzt, wrong: 713
+software rot: 712
+frobnitz: 695
+Get a real computer!: 692
+psyton: 680
+unwind the stack: 678
+manularity: 676
+smash the stack: 674
+bletcherous: 661
+fontology: 659
+kremvax: 655
+RTFAQ: 655
+dusty deck: 649
+Eric Conspiracy: 639
+J. Random Hacker: 628
+sex changer: 623
+screwage: 621
+wheel bit: 620
+megapenny: 616
+alt bit: 612
+bondage-and-discipline language: 606
+burst page: 604
+backbone site: 597
+laser chicken: 592
+second-system effect: 590
+Microsloth Windows: 584
+bozotic: 583
+TWENEX: 583
+console jockey: 580
+molly-guard: 575
+green bytes: 574
+middle-endian: 560
+feeper: 548
+cycle server: 546
+raster blaster: 546
+like nailing jelly to a tree: 541
+golf-ball printer: 535
+PC-ism: 534
+voodoo programming: 532
+rusty memory: 529
+stone knives and bearskins: 527
+studlycaps: 511
+IWBNI: 508
+joe code: 506
+epsilon squared: 505
+crudware: 504
+hand-hacking: 504
+guiltware: 503
+superprogrammer: 487
+meta bit: 486
+Aluminum Book: 484
+gronked: 483
+write-only language: 481
+hackitude: 480
+Telerat: 480
+zorkmid: 477
+terminak: 472
+vadding: 470
+crawling horror: 469
+fencepost error: 465
+chad box: 464
+bit bashing: 462
+Brooks's Law: 457
+bogometer: 452
+proglet: 452
+aliasing bug: 444
+killer micro: 440
+within epsilon of: 439
+field circus: 434
+slap on the side: 426
+dark-side hacker: 425
+turbo nerd: 399
+Great Renaming: 395
+banana label: 393
+schroedinbug: 390
+write-only code: 387
+120 reset: 385
+virtual Friday: 381
+gubbish: 381
+walk off the end of: 376
+juggling eggs: 374
+mouse belt: 374
+Shub-Internet: 370
+plaid screen: 370
+twonkie: 369
+copywronged: 365
+ELIZA effect: 364
+bogon filter: 361
+breedle: 356
+mouse elbow: 354
+examining the entrails: 350
+ifdef out: 350
+bogon flux: 350
+cybercrud: 348
+fritterware: 346
+garply: 344
+womb box: 340
+unixism: 339
+Easter egging: 338
+angry fruit salad: 337
+Obfuscated C Contest: 336
+mandelbug: 336
+nyetwork: 336
+netburp: 332
+grilf: 331
+creeping elegance: 328
+BiCapitalization: 324
+Compu$erve: 323
+rib site: 318
+eat flaming death: 318
+hackishness: 317
+backbone cabal: 317
+spelling flame: 314
+cycle drought: 313
+USG UNIX: 311
+WYSIAYG: 309
+bagbiter: 306
+Ninety-Ninety Rule: 306
+ScumOS: 306
+Commonwealth Hackish: 306
+Objectionable-C: 302
+glass tty: 296
+person of no account: 295
+dinosaurs mating: 294
+creeping featuritis: 294
+Lubarsky's Law of Cybernetic Entomology: 293
+zigamorph: 291
+quantum bogodynamics: 291
+pnambic: 290
+wound around the axle: 290
+hardwarily: 287
+domainist: 286
+search-and-destroy mode: 286
+WIMP environment: 284
+bug-for-bug compatible: 283
+connector conspiracy: 282
+feeping creaturism: 281
+GOSMACS: 278
+de-rezz: 278
+Turing tar-pit: 278
+jump off into never-never land: 277
+wedgitude: 275
+wave a dead chicken: 275
+cut a tape: 275
+bit decay: 274
+Bohr bug: 272
+yoyo mode: 270
+FITNR: 270
+neep-neep: 266
+maggotbox: 263
+cough and die: 260
+frotzed: 257
+IBM discount: 257
+fandango on core: 253
+dinosaur pen: 253
+bogo-sort: 253
+ICBM address: 249
+deep hack mode: 249
+wheel wars: 247
+hacking run: 247
+Knights of the Lambda Calculus: 246
+memory smash: 245
+heavy wizardry: 244
+smash case: 244
+You know you've been hacking too long when...: 244
+boxed comments: 243
+annoybot: 241
+shotgun debugging: 237
+wugga wugga: 237
+programming fluid: 235
+gender mender: 232
+case and paste: 232
+HP-SUX: 227
+tits on a keyboard: 227
+propeller key: 227
+Great Runes: 225
+mouse ahead: 224
+terminal junkie: 224
+killer poke: 222
+overrun screw: 221
+mess-dos: 220
+barfulous: 220
+space-cadet keyboard: 219
+chase pointers: 219
+vaxocentrism: 219
+evil and rude: 214
+stubroutine: 214
+some random X: 214
+fat electrons: 214
+Open DeathTrap: 213
+winnitude: 213
+raster burn: 212
+within delta of: 212
+AI koans: 210
+lost in the underflow: 209
+unswizzle: 209
+Humor, Hacker: 208
+microfortnight: 208
+IYFEG: 208
+grind crank: 207
+friode: 205
+virtual shredder: 202
+newsfroup: 202
+airplane rule: 201
+warlording: 200
+bucky bits: 195
+eyeball search: 195
+hacker ethic, the: 194
+hysterical reasons: 191
+slopsucker: 190
+dictionary flame: 190
+bogotify: 190
+rat belt: 190
+walking drives: 188
+mickey mouse program: 187
+misbug: 185
+two-to-the-N: 183
+bytesexual: 182
+bells, whistles, and gongs: 179
+kangaroo code: 179
+nasal demons: 178
+code grinder: 177
+barfmail: 176
+rabbit job: 176
+suitable win: 176
+NUXI problem: 176
+autobogotiphobia: 175
+UNIX weenie: 171
+microfloppies: 171
+provocative maintenance: 171
+go flatline: 170
+veeblefester: 169
+cruncha cruncha cruncha: 169
+talker system: 169
+General Public Virus: 167
+to a zeroth approximation: 167
+glassfet: 166
+drunk mouse syndrome: 164
+scram switch: 163
+barfulation: 163
+senior bit: 161
+double bucky: 158
+ASCIIbetical order: 157
+netdead: 156
+syntactic salt: 155
+drool-proof paper: 153
+precedence lossage: 153
+menuitis: 151
+tip of the ice-cube: 150
+neats vs. scruffies: 150
+munching squares: 147
+Christmas tree packet: 147
+system mangler: 146
+card walloper: 146
+UNIX conspiracy: 142
+Imminent Death Of The Net Predicted!: 140
+lexiphage: 140
+FISH queue: 137
+polygon pusher: 135
+psychedelicware: 134
+beige toaster: 133
+lord high fixer: 133
+one-banana problem: 133
+nanofortnight: 131
+reincarnation, cycle of: 130
+wirewater: 128
+plingnet: 128
+sysape: 125
+FUD wars: 124
+bonk/oif: 124
+block transfer computations: 124
+social science number: 124
+Chernobyl packet: 123
+miswart: 122
+GNUMACS: 121
+scrozzle: 121
+DEC Wars: 120
+quadruple bucky: 120
+Parkinson's Law of Data: 120
+leapfrog attack: 119
+gronk out: 117
+Yu-Shiang Whole Fish: 116
+pain in the net: 116
+times-or-divided-by: 115
+gurfle: 114
+dumbass attack: 114
+user-obsequious: 113
+El Camino Bignum: 113
+Chernobyl chicken: 113
+prestidigitization: 112
+nanoacre: 110
+NSA line eater: 110
+tickle a bug: 110
+Hacking X for Y: 109
+machoflops: 109
+clustergeeking: 109
+kluge around: 108
+like kicking dead whales down the beach: 107
+kluge up: 106
+pubic directory: 106
+CrApTeX: 105
+cruft together: 105
+doubled sig: 104
+sorcerer's apprentice mode: 104
+asbestos longjohns: 103
+smoking clover: 103
+loose bytes: 102
+breath-of-life packet: 102
+hakspek: 102
+kamikaze packet: 101
+buglix: 100
+multician: 100
+Gosperism: 100
+baud barf: 100
+cycle crunch: 98
+undefined external reference: 98
+I see no X here.: 97
+dup killer: 97
+meme plague: 97
+line starve: 96
+source of all good bits: 96
+computer confetti: 94
+blow an EPROM: 94
+spaghetti inheritance: 94
+optical diff: 93
+Berkeley Quality Software: 93
+mumblage: 93
+sun-stools: 93
+Mongolian Hordes technique: 92
+casters-up mode: 92
+orphaned i-node: 91
+Big Gray Wall: 91
+microLenat: 91
+tenured graduate student: 91
+Nightmare File System: 89
+missile address: 89
+stale pointer bug: 89
+pretzel key: 89
+kgbvax: 88
+bit-paired keyboard: 88
+high moby: 86
+leaky heap: 86
+snivitz: 86
+softwarily: 86
+Flyspeck 3: 85
+backward combatability: 85
+What's a spline?: 85
+has the X nature: 85
+macrotape: 85
+dongle-disk: 84
+featurectomy: 83
+octal forty: 81
+bogue out: 81
+stir-fried random: 81
+Godzillagram: 80
+rotary debugger: 80
+cruftsmanship: 79
+point-and-drool interface: 79
+candygrammar: 78
+field servoid: 78
+cd tilde: 78
+Nominal Semidestructor: 78
+Pink-Shirt Book: 78
+macdink: 77
+branch to Fishkill: 77
+obi-wan error: 76
+water MIPS: 76
+terminal brain death: 75
+pseudosuit: 75
+vaxism: 74
+teraflop club: 74
+depeditate: 73
+one-liner wars: 73
+C Programmer's Disease: 73
+COBOL fingers: 73
+despew: 73
+exercise, left as an: 72
+memory farts: 72
+finger-pointing syndrome: 72
+register dancing: 72
+crayola books: 71
+dread high-bit disease: 71
+winged comments: 70
+shitogram: 70
+eighty-column mind: 70
+firehose syndrome: 69
+feeping creature: 68
+compiler jock: 68
+tick-list features: 67
+troglodyte mode: 67
+hand cruft: 67
+religion of CHI: 66
+interrupts locked out: 66
+DRECNET: 66
+maximum Maytag mode: 65
+asbestos cork award: 64
+Fight-o-net: 64
+chine nual: 63
+cursor dipped in X: 63
+systems jock: 63
+sys-frog: 63
+copybroke: 62
+rectangle slinger: 62
+perfect programmer syndrome: 62
+since time T equals minus infinity: 62
+D. C. Power Lab: 61
+UNIX brain damage: 60
+Programmer's Cheer: 60
+the X that can be Y is not the true X: 60
+shambolic link: 60
+screaming tty: 60
+meltdown, network: 60
+snarf & barf: 60
+ventilator card: 59
+pig, run like a: 59
+bring X to its knees: 59
+milliLampson: 58
+dup loop: 56
+Chinese Army technique: 56
+backspace and overstrike: 56
+Missed'em-five: 56
+lots of MIPS but no I/O: 55
+optical grep: 55
+overflow pdl: 51
+dickless workstation: 50
+lithium lick: 50
+stack puke: 50
+feetch feetch: 50
+Lasherism: 49
+If you want X, you know where to find it.: 48
+ten-finger interface: 47
+four-color glossies: 47
+minifloppies: 46
+Suzie COBOL: 45
+microReid: 45
+fepped out: 43
+TMRCie: 43
+vaxherd: 41
+pessimizing compiler: 40
+Mbogo, Dr. Fred: 40
+NetBOLLIX: 39
+SysVile: 38
+newgroup wars: 38
+Helen Keller mode: 38
+VAXectomy: 35
+interrupt list, the: 35
+Great Worm, the: 33
+Bloggs Family, the: 32
+cray instability: 30
+line eater, the: 28
+shift left (or right) logical: 28
+fool file, the: 11
+pizza, ANSI standard: 8
+tea, ISO standard cup of: 7
+YKYBHTL: 4
+
