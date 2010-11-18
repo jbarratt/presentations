@@ -14,7 +14,8 @@
 # Timers
     @@@perl
     # $w = AE::timer $after, $interval, $cb
-    # If $interval is 0, then the callback will only be invoked once
+    # If $interval is 0, then the callback 
+    # will only be invoked once
     my $w = AE::timer 1,0,
         sub { warn 'every 1 second'; };
     my $w = AE::timer 0,1,

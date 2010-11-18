@@ -32,12 +32,12 @@
 
 !SLIDE bullets
 # Still going strong...
-* for free: 1230000000
-* comment out: 879000000
-* download: 354000000
-* for values of: 343000000
-* by hand: 309000000
-* face time: 238000000
+* for free: 1,230,000,000
+* comment out: 879,000,000
+* download: 354,000,000
+* for values of: 343,000,000
+* by hand: 309,000,000
+* face time: 238,000,000
 
 !SLIDE bullets
 # RIP

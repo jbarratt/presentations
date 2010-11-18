@@ -1,25 +1,25 @@
-!SLIDE
+!SLIDE bullets
 # The larger ecosystem
-### If you fling packets at it, AnyEvent it!
-### CPAN FTW
+* If you fling packets at it, AnyEvent it!
+* CPAN FTW, lots already done
 
 !SLIDE
 # Databases
-## DBI
-## Redis CouchDB Riak Memcached
+# DBI
+# Redis CouchDB Riak Memcached
 
 !SLIDE
 # Messaging
-## AnyMQ
-## Stomp AMPQ RabbitMQ
+# AnyMQ
+# Stomp AMPQ RabbitMQ
 
 !SLIDE
 # Networking
-## FastPing IRC SNMP XMPP
+# FastPing IRC SNMP XMPP
 
 !SLIDE
 # WebServers
-## Tatsumaki Twiggy
+# Tatsumaki Twiggy
 
 !SLIDE
 # Twiggy

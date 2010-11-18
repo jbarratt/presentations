@@ -1,6 +1,13 @@
 !SLIDE 
 # Simple Transactions with **`begin`** and **`end`** #
 
+!SLIDE bullets
+# For a given name, which TLD's are resolving?
+* Want to do a bunch of DNS lookups
+* Transaction "complete" when all are done 
+* `begin` @ callback creation
+* `end` when work is done
+
 !SLIDE code
     @@@perl
     my @tld = qw(com net org mp ly cc co info 
@@ -92,6 +99,25 @@
     anyevent.info => 213.171.192.98
     anyevent.biz => 213.171.195.53
     Transaction complete!
+
+!SLIDE code small
+# This works for any batch work
+## First Example again...
+    @@@perl
+    my $cv        = AE::cv; #Condition=false
+    my $processed = 0;
+    for ( 1 .. $count ) {
+        my $zone = random_string($zone_size) . ".com";
+        AnyEvent::DNS::a $zone, sub {
+            my $ip = shift;
+            if ( defined($ip) ) { $live++; }
+            $processed++;
+            if ( $processed == $count ) {
+                $cv->send;
+            }
+        };
+    }
+    $cv->recv; #Run event loop until "true" (->send)
 
 !SLIDE code
 # First Example Refactor
